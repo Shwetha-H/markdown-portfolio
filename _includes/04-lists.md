@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+:+1:
+✨
+:tada:
+Item 1
+Item 2
+  1. Item 2a
+  2. Item 2b
